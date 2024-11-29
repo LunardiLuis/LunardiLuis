@@ -1,6 +1,6 @@
 ## Opa eu sou a Luis Lunardi, aluno do Forja-SENAI!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisLunardi&show_icons=true&theme=)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisLunardi&show_icons=true&theme=maroongold)
 
 tecnologias que eu tenho estudado:
 
