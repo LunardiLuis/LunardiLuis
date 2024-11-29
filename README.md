@@ -1,8 +1,8 @@
 ## Opa eu sou a Luis Lunardi, aluno do Forja-SENAI!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenDellaRoveri&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisLunardi&show_icons=true&theme=tokyonight)
 
-Essas são as tecnologias que eu tenho praticado e estudado:
+tecnologias que eu tenho estudado:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Helen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
